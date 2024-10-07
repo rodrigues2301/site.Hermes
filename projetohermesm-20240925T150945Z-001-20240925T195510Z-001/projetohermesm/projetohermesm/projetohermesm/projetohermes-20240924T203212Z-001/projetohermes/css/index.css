@@ -1,0 +1,149 @@
+body {
+    background-image: url("../imagensdeus/imageminicio.png");
+    background-size: cover;
+
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+
+a {
+    color: black;
+    text-decoration: none
+}
+
+nav a:hover {
+    color: #140F05;
+}
+
+
+
+h1 {
+
+    color: #ffffff;
+    text-align: center;
+}
+
+
+h2 {
+    color: #ffffff;
+    text-align: right;
+}
+
+.hermes {
+    color: #ffffff;
+    text-align: right;
+    vertical-align: text-top;
+    font-size: 128px;
+    font-family: Inter;
+    line-height: auto;
+    width: 1024px;
+    margin-left: 200px;
+}
+
+.galeria {
+    text-align: center;
+
+}
+
+.inicio {
+    background-color:dimgrey;
+    padding: 0%;
+    margin: 0%;
+    width: 1895px;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+    background-image: center;
+    border: 100px solid #000000;
+    border-width: 20px;
+    margin: 0px;
+
+}
+
+.listas {
+    color: #ffffff;
+
+
+}
+
+.gal {
+    text-align: center;
+}
+
+.galm {
+    background-color: #826D37;
+}
+
+.bem-vindo {
+    text-align: center;
+
+}
+
+.fundoinicio {
+    background-color: #000000;
+}
+
+.lis {
+    margin-left: 200px;
+}
+
+.liii {
+
+    margin-left: 200px;
+
+
+
+
+}
+
+.contato {
+    background-color: #F0F4F4;
+    position: absolute;
+    font-size: 25px;
+    height: 10vh;
+    top: 100%;
+    margin-top: 200px;
+    width: 98vw;
+    
+
+}
+
+.telefone {
+    padding-left: 700px;
+    width: 300px;
+    width: 100px;
+
+}
+
+.email {
+    width: 8vh;
+    
+}
+
+.nm {
+    color: #000000;
+}
+
+.prod{
+    background-image: url("../imagensdeus/p");
+    background-size: cover;
+}
+
+.listas2 {
+    color: #ffffff;
+
+
+}
+.lis2 {
+    margin-left: 200px;
+}
